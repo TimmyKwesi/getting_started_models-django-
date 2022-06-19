@@ -1,2 +1,2 @@
-# getting_started_models-django-
+# getting_started_with_models
 Zuri - Django Models Task
